@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 449.68 222.35">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: ArialMT, Arial;
+        font-size: 91.78px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="175.75" cy="130.4" r="49.09"/>
+  <text class="cls-1" transform="translate(136.59 164.21) scale(1.13 1)"><tspan x="0" y="0">C</tspan></text>
+</svg>
